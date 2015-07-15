@@ -1,0 +1,1 @@
+g++ client.cpp chatClient.cpp parentWin.cpp childWin.cpp -o client -std=c++11 -lncurses
