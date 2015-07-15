@@ -3,10 +3,10 @@
 SimpleChat is a simple chat (duh!!) program for local networks. 
 It has been written for learning purposes, and there are probably
 many things wrong with it!! 
-I am not sure how many simultanuous users it can support, but
+I am not sure how many simultaneous users it can support, but
 I have tried it with up to 20 different clients, and it seems
 to work fine without any problems.
-It uses Berkely Socket API for transferring messages using TCP.
+It uses Berkeley Socket API for transferring messages using TCP.
 
 # Tips(!)
 
