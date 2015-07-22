@@ -23,4 +23,4 @@ For the server make sure to add pthread and lsqlite3 flags, and compile it:
 
 For the client I am using ncurses library, so just add the ncurses flag:
 
-    clang++ client.cpp chatClient.cpp parentWin.cpp childWin.cpp -o client -std=c++11 -lncurses
+    g++ client.cpp chatClient.cpp parentWin.cpp childWin.cpp -o client -std=c++11 -lncurses
