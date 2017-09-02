@@ -1,0 +1,47 @@
+.wy-nav-content {
+    width: 100%;
+    max-width: 100%;
+}
+.rst-content dt {
+  /*width: 100%;*/
+}
+
+.rst-content dl:not(.docutils) dt {
+    font-size: 100%;
+}
+
+.rst-content dl:not(.docutils) {
+    background: #f5f9fe;
+    padding-bottom: 3px;
+    border-radius: 3px;
+    border-style: dashed;
+    border-color: #cce4fa;
+    border-width: 1px;
+}
+
+.rst-content dl:not(.docutils) dl dt {
+    border-left: solid 3px #8ca9d1;
+    border-radius: 2px;
+}
+.rst-content dl:not(.docutils) dl dt {
+    background: rgba(217, 232, 245, 0.8);
+}
+
+.rst-content dl dt {
+    background: #d7ecff;
+    width: 100%;
+}
+
+.rst-content .docutils dt {
+  width: auto;
+  max-width: 100%;
+  min-width: 30px;
+}
+
+dd {
+  max-width: 96%;
+}
+
+element.style {
+    width: 100%;
+}

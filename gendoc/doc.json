@@ -1,0 +1,23 @@
+{
+  "project": "SimpleChat",
+  "version": "1.0",
+  "author": "AliASkari",
+  "logo": "",
+  "source_dir": "../client",
+  "api_dir": "../",
+  "build_dir": "_build",
+  "with_symbols": {
+    "function": true,
+    "enum": true,
+    "typedef": true,
+    "variable": true,
+    "enumvalue": false,
+    "define": false
+  },
+  "ignore": {
+    "classes": [
+    ],
+    "symbols": [
+    ]
+  }
+}
